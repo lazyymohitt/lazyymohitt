@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-👋 Hi, I'm Mohit Kumar!<br><br>🔭 Currently working on: Building full-stack web applications and exploring new technologies.<br><br>🌱 I’m learning and improving my skills in JavaScript, React, Node.js, and much more.<br><br>⚡ Fun fact: I love learning to make 3D websites with awesome effects and am always curious to learn new things.<br><br>💬 Feel free to reach out if you want to collaborate or chat about tech.<br><br>📫 How to reach me:  <br>- Email: async.mohitt@gmail.com<br><br>-LinkedIn: www.linkedin.com/in/mohit-kumar-816415323<br><br>🔗 Check out my projects below!<br><br>
+👋 Hi, I'm Mohit Kumar!<br><br>🔭 Currently working on Building full-stack web applications and exploring new technologies.<br><br>🌱 I’m learning and improving my skills in JavaScript, React, Node.js, and much more.<br><br>⚡ Fun fact: I love learning to make 3D websites with awesome effects and am always curious to learn new things.<br><br>💬 Feel free to reach out if you want to collaborate or chat about tech.<br><br>📫 How to reach me:  <br>- Email: async.mohitt@gmail.com<br><br>-LinkedIn: www.linkedin.com/in/mohit-kumar-816415323<br><br>🔗 Check out my projects below!<br><br>
 
 
 ## 🌐 Socials:
